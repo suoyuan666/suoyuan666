@@ -14,5 +14,5 @@
 
 ## GitHub Status
 
-| <a href="https://payloads.online"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suoyuan666&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true&hide=contribs" alt="suoyuan666's github stats" /></a> | <a href="https://s5nblog.site"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suoyuan666&layout=compact&theme=graywhite&hide_border=true&hide=javascript,html,css" /></a> |
+| <a href="https://s5nblog.site"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suoyuan666&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true&hide=contribs" alt="suoyuan666's github stats" /></a> | <a href="https://s5nblog.site"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suoyuan666&layout=compact&theme=graywhite&hide_border=true&hide=javascript,html,css" /></a> |
 | ------------- | ------------- |
