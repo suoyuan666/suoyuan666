@@ -8,7 +8,7 @@
 
 ## 工作环境
 
-双系统：Windows 10 && Arch Linux
+双系统：Windows 11 && Arch Linux
 
 编程环境：vscodeium + clangd, ...
 
