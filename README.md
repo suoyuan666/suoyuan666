@@ -8,9 +8,9 @@
 
 ## 工作环境
 
-双系统：Windows 11 && Arch Linux
+双系统：Windows 11 && NixOS
 
-编程环境：vscodeium + clangd, ...
+开发环境：vscode + clangd + remote WSL, ...
 
 ## GitHub Status
 
