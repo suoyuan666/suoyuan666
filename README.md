@@ -8,7 +8,7 @@
 
 ## 工作环境
 
-双系统：Windows 11 && NixOS
+双系统：Windows 11 && Fedora 40
 
 开发环境：vscode + clangd + remote WSL, ...
 
