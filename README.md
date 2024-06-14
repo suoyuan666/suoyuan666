@@ -8,9 +8,9 @@
 
 ## 工作环境
 
-双系统：Windows 11 && Fedora 40
+双系统：Windows 11 && Arch Linux
 
-开发环境：vscode + clangd + remote WSL, ...
+开发环境：Visual Studio Code + clangd + remote WSL, ...
 
 ## GitHub Status
 
