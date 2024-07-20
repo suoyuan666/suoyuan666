@@ -15,9 +15,9 @@
 ## GitHub Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=suoyuan666&show_icons=true" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=suoyuan666&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suoyuan666&hide_border=true&card_width=470&hide=astro,typescript,css,javascript" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suoyuan666&hide_border=true&card_width=470&hide=astro,typescript,css,javascript" />
 </a>
