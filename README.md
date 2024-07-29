@@ -10,7 +10,7 @@
 
 双系统：Windows 11 && Arch Linux
 
-开发环境：Visual Studio Code + clangd + remote WSL, ...
+开发环境：Visual Studio Code + clangd ...
 
 ## GitHub Status
 
