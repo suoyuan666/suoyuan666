@@ -9,7 +9,8 @@
 ![Arch Linux](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white)
-![clangd](https://img.shields.io/badge/clangd-000000?logo=llvm&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-1E90FF?logo=vscodium&logoColor=white)
+![clangd](https://img.shields.io/badge/clangd-00599C?logo=llvm&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/Cpp-00599C?logo=cplusplus&logoColor=white)
