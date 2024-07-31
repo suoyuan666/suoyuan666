@@ -6,11 +6,15 @@
 
 博客网址: https://s5nblog.site/
 
-## 工作环境
+![Arch Linux](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 
-双系统：Windows 11 && Arch Linux
+![Neovim](https://img.shields.io/badge/NeoVim-57A143?&style=for-the-badge&logo=neovim&logoColor=white)
+![clangd](https://img.shields.io/badge/clangd-000000?logo=llvm&logoColor=white)
 
-开发环境：Visual Studio Code + clangd ...
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Cpp-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-10589C?logo=python&logoColor=white)
+
 
 ## GitHub Status
 
