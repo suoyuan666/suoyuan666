@@ -1,21 +1,20 @@
 ## 基本信息
 
-普通本科在读（学校菜菜，就不说是什么学校了）
+普通本科在读，学校菜菜，我也菜菜 😭。
 
-一开始是想在 CS 中有所发展，后来因为自身原因，现在希望是嵌入式领域
+一开始是想在 CS 中有所发展 😋，后来因为自身原因，现在希望是嵌入式领域 🫠
 
 博客网址: https://s5nblog.site/
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-00BFFF?logo=archlinux&logoColor=white)
+![Gentoo Linux](https://img.shields.io/badge/Gentoo_Linux-54487A?logo=gentoo&logoColor=white)
 
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white)
-![VSCodium](https://img.shields.io/badge/VSCodium-1E90FF?logo=vscodium&logoColor=white)
-![clangd](https://img.shields.io/badge/clangd-000000?logo=llvm&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white)
+![clangd](https://img.shields.io/badge/clangd-262D3A?logo=llvm&logoColor=white)
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/Cpp-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-10589C?logo=python&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
 
 ## GitHub Status
 
