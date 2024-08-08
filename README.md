@@ -6,7 +6,7 @@
 
 博客网址: https://s5nblog.site/
 
-![Gentoo Linux](https://img.shields.io/badge/Gentoo_Linux-54487A?logo=gentoo&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white)
