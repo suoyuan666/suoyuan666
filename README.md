@@ -7,6 +7,7 @@
 博客网址: https://s5nblog.site/
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?logo=windows&logoColor=white)
 
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white)
