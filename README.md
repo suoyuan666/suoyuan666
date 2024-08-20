@@ -11,7 +11,6 @@
 
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white&style=for-the-badge)
-![clangd](https://img.shields.io/badge/clangd-262D3A?logo=llvm&logoColor=white&style=for-the-badge)
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/Cpp-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
