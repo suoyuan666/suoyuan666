@@ -4,9 +4,9 @@
 
 一开始是想在 CS 中有所发展 😋，后来因为自身原因，现在希望能是嵌入式领域 🫠
 
-博客网址: https://s5nblog.site/
+我的博客: https://s5nblog.site/
 
-![Fedora Linux](https://img.shields.io/badge/Fedora_Linux-51A2DA?logo=Fedora&logoColor=white&style=for-the-badge)
+![Gentoo Linux](https://img.shields.io/badge/Gentoo_Linux-54487A?logo=Gentoo&logoColor=white&style=for-the-badge)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
