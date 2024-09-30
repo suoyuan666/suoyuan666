@@ -2,8 +2,6 @@
 
 普通本科在读，学校菜菜，我也菜菜 😭。
 
-一开始是想在 CS 中有所发展 😋，后来因为自身原因，现在希望能是嵌入式等领域 🫠
-
 我的博客: https://s5nblog.site/
 
 ![Gentoo Linux](https://img.shields.io/badge/Gentoo_Linux-54487A?logo=Gentoo&logoColor=white&style=for-the-badge)
