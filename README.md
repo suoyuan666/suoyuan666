@@ -4,9 +4,9 @@
 
 普通本科在读，学校菜菜，我也菜菜 😭。
 
-我的博客: https://s5nblog.site/
+我的博客: https://s5n.xyz/
 
-![Gentoo Linux](https://img.shields.io/badge/Gentoo_Linux-54487A?logo=Gentoo&logoColor=white&style=for-the-badge)
+![Fedora Linux](https://img.shields.io/badge/Gentoo_Linux-51A2DA?logo=Fedora&logoColor=white&style=for-the-badge)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
