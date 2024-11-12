@@ -18,6 +18,6 @@
 
 ## GitHub Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suoyuan666&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suoyuan666&hide=astro,typescript,css,javascript)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suoyuan666&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suoyuan666&hide=html,astro,typescript,css,javascript)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suoyuan666)
