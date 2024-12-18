@@ -6,7 +6,7 @@
 
 我的博客: https://s5n.xyz/
 
-![Fedora Linux](https://img.shields.io/badge/Fedora_Linux-51A2DA?logo=Fedora&logoColor=white&style=for-the-badge)
+![openSUSE Tumbleweed](https://img.shields.io/badge/opensuse_Tumbleweed-73BA25?logo=opensuse&logoColor=white&style=for-the-badge)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
