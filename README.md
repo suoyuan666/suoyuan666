@@ -1,3 +1,7 @@
-GitHub 图片有 cache 不能立即刷新，还是我没搞明白怎么自动生成（要是用 GitHub Action 就算了），所以来看我的博客的 about 吧
+普通本科 大三在读 在一个应该算是科班的地方里学习的野路子 学校菜菜 我也菜菜 🫡
 
-链接: https://s5n.xyz/about/
+更多请看我博客的 about: https://s5n.xyz/about/
+
+<img src="https://github-readme-stats.vercel.app/api?username=suoyuan666&show_icons=true" alt="GitHub Status">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suoyuan666&hide=html,typescript,css,javascript" alt="GitHub Top Lang">
