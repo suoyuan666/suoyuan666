@@ -2,6 +2,5 @@
 
 更多请看我博客的 about: https://s5n.xyz/about/
 
-<img src="https://github-readme-stats.vercel.app/api?username=suoyuan666&show_icons=true" alt="GitHub Status">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suoyuan666&hide=html,typescript,css,javascript" alt="GitHub Top Lang">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suoyuan666&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suoyuan666&layout=compact&hide=html,typescript,css,javascript)
