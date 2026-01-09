@@ -4,5 +4,5 @@
 
 更多请看我博客的 about: https://s5n.xyz/about/
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suoyuan666&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suoyuan666&layout=compact&hide=html,typescript,css,javascript)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
