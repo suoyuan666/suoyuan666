@@ -1,8 +1,16 @@
-普通本科 大四在读 在一个应该算是科班的地方里学习的野路子 应该算是 OS kernel 和 Compiler 爱好者🤔
+普通本科 大四在读 在一个 cos 科班的地方里学习的野路子 🤐
 
-学校菜菜 我也菜菜 🫡
+OS kernel 和 Compiler 爱好者
 
-更多请看我博客的 about: https://s5n.xyz/about/
+更多请看我博客的 About Me: https://s5n.xyz/about/
+
+---
+
+Senior undergrad | CS major but self-taught 🤐
+
+Passionate about OS Kernel and Compiler
+
+Read more: https://s5n.xyz/en/about/
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
