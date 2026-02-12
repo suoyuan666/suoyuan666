@@ -12,5 +12,7 @@ Passionate about OS Kernel and Compiler
 
 Read more: https://s5n.xyz/en/about/
 
+---
+
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
